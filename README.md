@@ -1,6 +1,9 @@
 # Global, personal repository [![HitCount](http://hits.dwyl.com/wsdt/Global.svg)](http://hits.dwyl.com/wsdt/Global) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://bitbucket.org/lbesson/ansi-colors) [![Donate](https://img.shields.io/badge/Donate-Pay%20me%20a%20coffee-3cf)](https://github.com/wsdt/Global/wiki/Donation)
 This repository contains shared files, information, links etc. to reduce boilerplate content throughout my open-source repositories.
 ***
+# Wiki
+[You may want to take a look at my Wiki.](https://github.com/wsdt/Global/wiki)
+***
 
 # Curriculum Vitae / CV
 [**You can download the current .pdf here.**](https://github.com/wsdt/Global/blob/master/CV_EN_concise.pdf)
