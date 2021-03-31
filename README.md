@@ -2,7 +2,7 @@
 This repository contains shared files, information, links etc. to reduce boilerplate content throughout my open-source repositories.
 ***
 # Contact
-My e-mail: **kevin.riedl.privat@gmail.com**
+My e-mail: **kevin.riedl@wavect.io**
 ***
 # Wiki
 [**You may want to take a look at my Wiki.**](https://github.com/wsdt/Global/wiki)
